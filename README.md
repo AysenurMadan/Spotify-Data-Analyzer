@@ -13,4 +13,4 @@ Bu proje, **Spotify Web API** kullanarak kullanıcının dinleme alışkanlıkla
 - **Plotly** (Etkileşimli Grafikler)
 
 ### 🔗 Canlı Uygulama
-[Uygulama Linkini Buraya Yapıştır]
+[(https://spotify-data-analyzer-p9627gqq4cgwavut9yczbv.streamlit.app/)]
